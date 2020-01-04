@@ -13,3 +13,7 @@ commandments[7] = (isWorkingForACompany)?"Don't write your code like this.":"Jus
 commandments[8] = "If you don't have any thoughts, just listen to music."; <br>
 commandments[9] = "You must make your coding experience **FUNNY**.";
 ## The week of the world's creating
+The first day of the week, Konrad said, "let there be a language that can run on computers.", So he wrote a paper about a programming language, Plankalkül, which is just a concept.<br>
+The second day of the week, John created Fortran.<br>
+The third day of the week, a lot of scientists created a lot of programming languages, such as C.<br>
+The fourth day of
